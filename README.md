@@ -1,1 +1,1 @@
-# first-chrome-extentosion
+# first-chrome-extension
